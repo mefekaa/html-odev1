@@ -6,3 +6,7 @@ Derste öğrendiğim paragraf ve başlık fonksiyonlarını kullanarak ilk web s
 
 
 [Patika hesabıma ulaşmak için tıklayın](https://app.patika.dev/mfatihh)
+
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
